@@ -1,0 +1,11 @@
+admin-code.txt
+*.save
+*.save.*
+index-backup*.html
+index-before-*.html
+index-syllabus-final-backup.html
+ctrl+0
+ctrl+0.save
+android/.gradle/
+android/local.properties
+android/**/build/
